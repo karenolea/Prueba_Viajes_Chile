@@ -1,0 +1,75 @@
+body{
+    background-color:rgb(7, 7, 7);
+    margin: 0;
+    padding: 0;
+}
+
+
+.h1-principal {
+    color: transparent;
+    text-indent: -9999px;
+    width: 0px;
+    height: 0px;
+}
+
+/* navbar*/
+
+header nav img{
+    width: 5%;
+  }
+
+
+/*quienes somos*/
+
+#QuienesSomos div.fondo{
+    background-color: skyblue;
+    text-align: center;
+}
+
+#QuienesSomos div i{
+    font-size: 23px;
+}
+
+#QuienesSomos hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: skyblue;
+}
+
+/*destacados*/
+
+#Destacados hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: skyblue;
+}
+
+.card-body-celeste {
+    background-color:skyblue;
+    color: white;
+    font-family: "roboto";
+}
+
+img.card-img-top.acortar{
+    height: 168px;
+}
+
+/*contacto*/
+
+#Contacto hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: skyblue;
+}
+
+
+/*footer*/
+
+#Footer{
+    background-color:skyblue;
+}
+
+#Footer h1{
+    font-size:32px ;
+}
+
