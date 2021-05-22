@@ -2,8 +2,8 @@ body{
     background-color:rgb(7, 7, 7);
     margin: 0;
     padding: 0;
+    font-family: "raleway"
 }
-
 
 .h1-principal {
     color: transparent;
@@ -18,11 +18,15 @@ header nav img{
     width: 5%;
   }
 
-
 /*quienes somos*/
 
+#QuienesSomos p{
+    font-family: "raleway";
+    font-weight: 300;
+}
+
 #QuienesSomos div.fondo{
-    background-color: skyblue;
+    background-color: #239DBF;
     text-align: center;
 }
 
@@ -33,21 +37,25 @@ header nav img{
 #QuienesSomos hr.linea{
     width: auto;
     height: 1px;
-    background-color: skyblue;
+    background-color: #239DBF;
 }
 
 /*destacados*/
 
+#Destacados h2{
+    font-family: "raleway";
+    font-weight: 500; 
+}
+
 #Destacados hr.linea{
     width: auto;
     height: 1px;
-    background-color: skyblue;
+    background-color: #239DBF;
 }
 
 .card-body-celeste {
-    background-color:skyblue;
+    background-color:#239DBF;
     color: white;
-    font-family: "roboto";
 }
 
 img.card-img-top.acortar{
@@ -56,20 +64,25 @@ img.card-img-top.acortar{
 
 /*contacto*/
 
+#Contacto h2{
+    font-family: "raleway";
+    font-weight: 500;
+}
+
 #Contacto hr.linea{
     width: auto;
     height: 1px;
-    background-color: skyblue;
+    background-color: #239DBF;
 }
-
 
 /*footer*/
 
 #Footer{
-    background-color:skyblue;
+    background-color:#239DBF;
 }
 
-#Footer h1{
-    font-size:32px ;
+#Footer a i{
+    font-size: 36px;
+    font-weight: 400;
 }
 
