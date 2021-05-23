@@ -11,4 +11,10 @@ $(document).ready(function(){
             800
         );
     })
+
+    $('[data-toggle="tooltip"]').tooltip()
+
+    $('[data-toggle="popover"]').popover()
+
+
 })
