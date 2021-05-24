@@ -16,7 +16,9 @@ body{
 /* navbar*/
 
 header nav img{
-    width: 5%;
+    max-width: 40px;
+    height: auto;
+    margin-right: 0.5rem
   }
 
 /*quienes somos*/
